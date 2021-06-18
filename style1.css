@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+  background-size: cover;
+}
+.nav-link {
+  color: white;
+}
+.form-group{
+  color: white;
+  font-weight: 700;
+  font-size: larger;
+}
+.nav-item{
+  font-size: large;
+  font-weight: 700;
+  }
+  .one {
+    margin-left: 30%;
+    margin-top: 10%;
+    color: white;
+}
+.one a{
+  color: white;
+}
+.para{
+    margin-top: 2%;
+    text-align: center;
+    line-height: 2px;
+    color: white;
+}
+#name, #inputEmail4, #inputPassword4{
+  background: transparent;
+  color: white;
+}
+
+#firstname, #lastname, #mobnumber, #inputEmail4, #inputPassword4{
+  background: transparent;
+  color: white;
+}
+.form-control{
+  color: white;
+}
